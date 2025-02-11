@@ -57,7 +57,7 @@ This project focuses on analyzing smartphone data using AI and ML techniques. Th
 
 ### **1️⃣ Clone the repository**  
 ```bash
-git clone https://github.com/PrashnatTarbundiya/.git
+git clone https://github.com/PrashantTarbundiya/Smartphone-Data-Analysis-Using-AI-ML.git
 ```
 ### **2️⃣ Install dependencies**  
 ```bash
