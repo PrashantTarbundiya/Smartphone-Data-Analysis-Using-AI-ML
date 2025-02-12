@@ -65,7 +65,7 @@ pip install numpy pandas matplotlib scikit-learn
 ```
 ### **3️⃣ Run the script**  
 ```bash
-python script.py
+python ai_ml_smartphone.py
 ```
 ## 👥 Contributors  
 - **Prashant Tarbundiya** *(23BCE347)*  
